@@ -1,2 +1,2 @@
 # Eleven
-name is WIP
+name is WIP (so is readme lol)
