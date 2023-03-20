@@ -1,5 +1,7 @@
 # Eleven 🔮
 
+[🔗 INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=1033058803035422760&permissions=8&scope=bot%20applications.commands)
+
 Hey, what's up peeps! 👋
 
 > Introducing Eleven, the new and upcoming Discord bot, made for everyone! 🤖💬
