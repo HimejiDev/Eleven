@@ -56,4 +56,4 @@ We would love to hear your feedback on Eleven! If you have any suggestions or is
 
 ## Support Server 👥
 
-Join our support server to get help, report issues, and suggest new features! Click on [this link](https://discord.gg/WnPa6hHShh) to join. See you there! 👋
+Join our support server to get help, report issues, and suggest new features! Click on [this link](https://discord.gg/5wWAfszE2p) to join. See you there! 👋
