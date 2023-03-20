@@ -2,7 +2,7 @@
 
 Hey, what's up peeps! 👋
 
-> Introducing Eleven, the ultimate Discord bot for the modern world! 🤖💬
+> Introducing Eleven, the new and upcoming Discord bot, made for everyone! 🤖💬
 > 
 > With Eleven, you can keep your server organized and entertained with its powerful moderation and fun features. And the best part? It's completely free! 🎉🆓
 > 
