@@ -46,7 +46,7 @@ And many more! 🤯
 
 To add Eleven to your Discord server, simply click on [this link](https://discord.com/api/oauth2/authorize?client_id=1033058803035422760&permissions=8&scope=bot%20applications.commands). Once Eleven is in your server, just start using its commands! 🎉
 
-##### You can also use [this link](https://discord.com/api/oauth2/authorize?client_id=1033058803035422760&permissions=4398046511095&scope=bot%20applications.commands), but if you do not give all the permissions, some of the features/commands will not work. 
+You can also use [this link](https://discord.com/api/oauth2/authorize?client_id=1033058803035422760&permissions=4398046511095&scope=bot%20applications.commands), but if you do not give all the permissions, some of the features/commands will not work. 
 
 ## Feedback 📣
 
