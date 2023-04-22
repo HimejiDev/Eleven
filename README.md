@@ -1,5 +1,7 @@
 # Eleven 🔮
 
+## ⛔ Project is paused as of 20/04/2023 !
+---
 [🔗 INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=1033058803035422760&permissions=8&scope=bot%20applications.commands)
 
 Hey, what's up peeps! 👋
